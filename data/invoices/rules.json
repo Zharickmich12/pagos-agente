@@ -1,0 +1,18 @@
+{
+  "empresa": "Northwind Labs Inc.",
+  "periodo": "2026-10",
+  "limite_por_pago_usd": 2000,
+  "limite_mensual_usd": 5000,
+  "tasas_a_usd": { "USD": 1, "COP": 0.00025, "MXN": 0.0556 },
+  "monedas_aceptadas": ["USD", "COP", "MXN"],
+  "umbral_confianza": 0.85,
+  "beneficiarios": [
+    { "nombre": "Diseños Andinos SAS", "pais": "Colombia", "moneda": "USD", "acordado_max": 1200, "cuenta": "0000-1111" },
+    { "nombre": "Redacta Contenidos", "pais": "Colombia", "moneda": "COP", "acordado_max": 3500000, "cuenta": "0000-2222" },
+    { "nombre": "Studio Pixel", "pais": "México", "moneda": "MXN", "acordado_max": 18000, "cuenta": "0000-3333" },
+    { "nombre": "CloudHost LLC", "pais": "EE. UU.", "moneda": "USD", "acordado_max": 450, "cuenta": "0000-4444" },
+    { "nombre": "Legal Partners", "pais": "Chile", "moneda": "USD", "acordado_max": 2500, "cuenta": "0000-5555" },
+    { "nombre": "Datos Norte SAS", "pais": "Colombia", "moneda": "USD", "acordado_max": 1800, "cuenta": "0000-6666" },
+    { "nombre": "Soporte Cali SAS", "pais": "Colombia", "moneda": "COP", "acordado_max": 400000, "cuenta": "0000-7777" }
+  ]
+}

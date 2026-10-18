@@ -1,0 +1,10 @@
+Asunto: Cobro DA-2026-101 - Diseño de piezas octubre
+De: Diseños Andinos SAS (Colombia)
+Para: Northwind Labs Inc.
+Hola, adjunto el cobro.
+Factura: DA-2026-101
+Concepto: Diseño de piezas octubre
+Monto: 1200 USD
+Fecha de emisión: 2026-10-05
+Fecha de vencimiento: 2026-10-25
+Pago por: Bre-B - cuenta 0000-1111

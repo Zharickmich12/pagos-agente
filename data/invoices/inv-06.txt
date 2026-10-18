@@ -1,0 +1,10 @@
+Asunto: Cobro GH-12 - Campaña de crecimiento
+De: Growth Hackers LLC (EE. UU.)
+Para: Northwind Labs Inc.
+Hola, adjunto el cobro.
+Factura: GH-12
+Concepto: Campaña de crecimiento
+Monto: 800 USD
+Fecha de emisión: 2026-10-05
+Fecha de vencimiento: 2026-10-25
+Pago por: ACH - cuenta 0000-8888

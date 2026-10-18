@@ -1,0 +1,10 @@
+Asunto: Cobro DN-45 - Analítica de datos
+De: Datos Norte SAS (Colombia)
+Para: Northwind Labs Inc.
+Hola, adjunto el cobro.
+Factura: DN-45
+Concepto: Analítica de datos
+Monto: 1800 USD
+Fecha de emisión: 2026-10-05
+Fecha de vencimiento: 2026-10-25
+Pago por: Bre-B - cuenta 0000-6666

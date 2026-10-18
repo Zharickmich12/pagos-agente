@@ -1,0 +1,10 @@
+Asunto: Cobro RC-884 - Redacción mensual
+De: Redacta Contenidos (Colombia)
+Para: Northwind Labs Inc.
+Hola, adjunto el cobro.
+Factura: RC-884
+Concepto: Redacción mensual
+Monto: 3500000 COP
+Fecha de emisión: 2026-10-05
+Fecha de vencimiento: 2026-10-25
+Pago por: Bre-B - cuenta 0000-2222
